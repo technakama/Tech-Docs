@@ -2,9 +2,9 @@
 This repository consists of samples of Technical Articles, Long-form articles, Blog contents, Discussions, and Infographics. 
 
 # Links to Articles
-An Overview of the HTTP Protocol as covered in RFCs (https://www.inspirisys.com/HTTP_Protocol_as_covered_in_RFCs-An_Overview.pdf)
+An Overview of the HTTP Protocol as covered in RFCs (https://www.inspirisys.com/blog-details/HTTP_Protocol_in_RFCs/20)
 
-Developing SSD-Object Detection Models for Android Using TensorFlow (https://www.inspirisys.com/objectdetection_in_tensorflowdemo.pdf)
+Developing SSD-Object Detection Models for Android Using TensorFlow (https://www.inspirisys.com/blog-details/Developing_Object_Detection_Models_for_Android_Using_Tensorflow/16)
 
 Why MadCap Flare is a game changer for Technical Documentation? (https://www.technakama.co.in/2020/05/17/why-madcap-flare-is-a-game-changer-for-technical-documentation/)
 
